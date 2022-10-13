@@ -142,7 +142,7 @@ const mutation = new GraphQLObjectType({
           clientId: args.clientId,
         });
 
-        return projct.save();
+        return project.save();
       },
     },
   },
