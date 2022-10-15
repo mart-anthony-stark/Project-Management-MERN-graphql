@@ -102,7 +102,7 @@ const AddClientModal = () => {
                 </div>
 
                 <button
-                  type="submit"
+                  type="Submit"
                   data-bs-dismiss="modal"
                   className="btn btn-secondary"
                   onClick={onSubmit}
